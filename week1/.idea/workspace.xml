@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1998172-79a9-4f90-b2fa-c24424fc3b32" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BOJ_9093_단어뒤집기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PGM_주식가격.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,8 @@
     "애플리케이션.BOJ_1966_프린터큐.executor": "Run",
     "애플리케이션.BOJ_9012_괄호.executor": "Run",
     "애플리케이션.BOJ_9093_단어뒤집기.executor": "Run",
-    "애플리케이션.PGM_다리를지나는트럭.executor": "Run"
+    "애플리케이션.PGM_다리를지나는트럭.executor": "Run",
+    "애플리케이션.PGM_주식가격.executor": "Run"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
