@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c677514-0616-41a2-912d-036562891002" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BOJ_1012_유기농배추.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ_1697_숨바꼭질.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOJ_1012_유기농배추.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ_1012_유기농배추.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,8 @@
     "kotlin-language-version-configured": "true",
     "애플리케이션.BOJ_1012_유기농배추.executor": "Run",
     "애플리케이션.BOJ_11724_연결요소의개수.executor": "Run",
-    "애플리케이션.BOJ_1260_DFS와BFS.executor": "Run"
+    "애플리케이션.BOJ_1260_DFS와BFS.executor": "Run",
+    "애플리케이션.BOJ_1697_숨바꼭질.executor": "Run"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />

@@ -6,6 +6,7 @@ public class BOJ_1012_유기농배추 {
     static int[][] field;
     static int M,N,K;
 
+
     static void bfs(int r,int c){
         //세팅
         Queue<int[]> queue=new LinkedList<>();
