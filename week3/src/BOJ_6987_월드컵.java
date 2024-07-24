@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class BOJ_6987_월드컵 {
     static int[] win = new int[6];         // 승리 횟수
     static int[] draw = new int[6];        // 무승부 횟수
     static int[] lose = new int[6];        // 패배 횟수
