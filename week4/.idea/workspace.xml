@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4e2111c-4fc6-4c68-b876-7b2ab462b83d" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BOJ_1920_수찾기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ_1495_기타리스트.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ_18870_좌표압축.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOJ_12026_BOJ거리.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ_12026_BOJ거리.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +41,9 @@
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/win-air/Library/Mobile Documents/com~apple~CloudDocs/wina/study/밀라 스터디/week4",
     "애플리케이션.BOJ_12026_BOJ거리.executor": "Run",
+    "애플리케이션.BOJ_1495_기타리스트.executor": "Run",
     "애플리케이션.BOJ_1654_랜선자르기.executor": "Run",
+    "애플리케이션.BOJ_18870_좌표압축.executor": "Run",
     "애플리케이션.BOJ_1920_수찾기.executor": "Run",
     "애플리케이션.BOJ_2805_나무자르기.executor": "Run",
     "애플리케이션.test.executor": "Run",
